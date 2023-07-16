@@ -1,0 +1,2 @@
+# SchoolMgmt
+Pet Project
